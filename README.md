@@ -1,1 +1,1 @@
-My self study (solutions with codes) on projects from Kaggle / Analytics Vidhya competitions 
+My self study projects as well as some competition projects that I participated in.

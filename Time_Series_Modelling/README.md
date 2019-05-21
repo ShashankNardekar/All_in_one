@@ -10,4 +10,4 @@ This is because of the random nature of stocks dependent on various other factor
 
 Below is the predicted graph:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/ShashankNardekar/ML_projects/master/Time_Series_Modelling/Prediction_Output.png)

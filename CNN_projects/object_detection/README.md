@@ -23,4 +23,4 @@ These co-ordicnates are then mapped onto the image using another code snippet in
 
 Output preview:
 
-![Alt text](https://lh4.googleusercontent.com/jvexHfHjddg-VWRMhS3ZNxvk2QRVWOrkL1_Yab1A-HsPZJltmznIRsu3DaW7ZlKP9uwkXWbTDwAZ3WfpJ6K7=w1366-h626?raw=true "Title")
+![alt text](https://raw.githubusercontent.com/ShashankNardekar/ML_projects/master/CNN_projects/object_detection/example_03_output.png)
